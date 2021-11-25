@@ -80,13 +80,13 @@ p {
   color: white;
 }
 
-.social-icon {
+#social-icon {
   font-size: 40px;
   color: rgba(5, 107, 19, 0.5);
   margin: 8px, 24px;
 }
 
-.social-icon:hover {
+#social-icon:hover {
   color: #161303;
 }
 
@@ -99,7 +99,7 @@ p {
 }
 /*
 .social-icon:visited {
-  color: #1846c5;
+  color:  #1846c5;
 }
 
 .social-icon:visited:hover {
