@@ -63,9 +63,9 @@ p {
 }
 
 .img-circle {
-  width: 120px;
+  width: 150px;
   border-radius: 50%;
-  height: 120px;
+  height: 150px;
   object-fit: cover;
   object-position: 0 1px;
 }
